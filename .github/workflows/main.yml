@@ -1,0 +1,9 @@
+name: Mount OSM CBTC
+
+on:
+ workflow_dispatch:
+
+jobs:
+  genInfo:
+    uses: UAIBIT/CI/.github/workflows/getOSM.yml@main
+    secrets: inherit
