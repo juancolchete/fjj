@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-29T12:01:12Z",
-    "timestamp_areas_base": "2025-07-29T07:59:44Z",
+    "timestamp_osm_base": "2025-07-29T12:28:45Z",
+    "timestamp_areas_base": "2025-07-29T08:47:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -41,6 +41,29 @@
     "phone": "+55 85 98187 2326",
     "survey:date": "2025-07-08",
     "website": "https://www.clubedovolei.com.br/"
+  }
+},
+{
+  "type": "node",
+  "id": 13033837323,
+  "lat": -19.9389222,
+  "lon": -43.9396838,
+  "tags": {
+    "PBTC": "https://i.ibb.co/xKNz2zqx/images-1-26.jpg",
+    "addr:city": "Belo Horizonte",
+    "addr:housenumber": "373",
+    "addr:postcode": "30140-171",
+    "addr:street": "Rua Levindo Lopes",
+    "addr:suburb": "Savassi",
+    "amenity": "dojo",
+    "check_date": "2025-07-29",
+    "fjj": "yes",
+    "name": "Graice Barra Savassi",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "phone": "+55 31 9543-0945",
+    "survey:date": "2025-07-29"
   }
 }
 

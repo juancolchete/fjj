@@ -29,3 +29,22 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12987697461) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12987697461) 
 
+## Graice Barra Savassi
+**Type:** node
+**ID:** 13033837323
+**Coordinates:** -19.9389222, -43.9396838
+**Address:** Rua Levindo Lopes, 373, Savassi, Belo Horizonte, 30140-171
+**Details:**
+
+**PBTC:** ![PBTC](https://i.ibb.co/xKNz2zqx/images-1-26.jpg)- **amenity:** dojo
+- **check_date:** 2025-07-29
+- **fjj:** yes
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **phone:** +55 31 9543-0945
+- **survey:date:** 2025-07-29
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13033837323) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13033837323) 
+
